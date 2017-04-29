@@ -33,7 +33,7 @@
     [self.collectionView setCollectionViewLayout:layout];
     [self.collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([XMCollectionViewCell class]) bundle:nil] forCellWithReuseIdentifier:@"XMCollectionViewCell"];
     
-    
+    NSLog(@"this is a gest");
 }
 
 - (void)didReceiveMemoryWarning {
