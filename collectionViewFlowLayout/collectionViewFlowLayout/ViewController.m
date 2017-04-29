@@ -34,6 +34,7 @@
     [self.collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([XMCollectionViewCell class]) bundle:nil] forCellWithReuseIdentifier:@"XMCollectionViewCell"];
     
     NSLog(@"this is a gest");
+    NSLog(@"this is sourceTree branch test");
 }
 
 - (void)didReceiveMemoryWarning {
