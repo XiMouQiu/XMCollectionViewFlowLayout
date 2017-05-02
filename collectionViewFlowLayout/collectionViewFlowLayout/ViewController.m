@@ -37,6 +37,7 @@
     NSLog(@"this is sourceTree branch test");
     NSLog(@"this is thress");
     NSLog(@"sourceBranch");
+    NSLog(@"test branch merge");
 }
 
 - (void)didReceiveMemoryWarning {
