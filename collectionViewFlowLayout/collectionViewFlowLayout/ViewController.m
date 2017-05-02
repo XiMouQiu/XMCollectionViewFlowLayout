@@ -38,6 +38,7 @@
     NSLog(@"this is thress");
     NSLog(@"sourceBranch");
     NSLog(@"test branch merge");
+    NSLog(@"aaaaaabcdeft");
 }
 
 - (void)didReceiveMemoryWarning {
